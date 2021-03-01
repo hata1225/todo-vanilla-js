@@ -15,6 +15,7 @@ button {
   border: none;
   padding: 4px 16px;
   margin: 0 5px;
+  height: 30px;
 }
 
 button:hover {
@@ -66,7 +67,7 @@ button:hover {
 }
 
 li {
-  min-width: 200px;
+  width: 200px;
   list-style: none;
   margin-right: 8px;
 }
