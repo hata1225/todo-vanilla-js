@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: #fafafa;
 }
 
 input {
@@ -17,7 +18,7 @@ button {
 }
 
 button:hover {
-  background-color: #c9c9c9;
+  background-color: #dedede;
   color: #ffffff;
   cursor: pointer;
 }
